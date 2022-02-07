@@ -1,0 +1,16 @@
+{
+  "name": "screenshot",
+  "version": "2.0.0",
+  "description": "Serverless API to take screenshots of websites with Puppeteer.",
+  "author": "MultipleHats",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^1.8.5",
+    "chrome-aws-lambda": "^10.1.0",
+    "consola": "^2.15.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "playwright-core": "^1.15.1"
+  },
+  "devDependencies": {}
+}
